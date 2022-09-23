@@ -13,7 +13,7 @@
 
 ### About Me :
 
-I am a Front-End Developer from Brasil.
+I am a Front-End Developer from Brazil.
 
 <div align="left">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="100" height="auto"/>  
